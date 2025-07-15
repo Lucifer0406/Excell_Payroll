@@ -1,8 +1,4 @@
-Here’s a clean and professional **README.md** you can use for your GitHub repository to describe the uploaded Excel file:
-
----
-
-# 🧾 Payroll Management Sheet (Excel)
+## 🧾 Payroll Management Sheet (Excel)
 
 This repository contains an Excel-based **Payroll Management System** designed to help small organizations or teams efficiently track and manage employee salary details.
 
